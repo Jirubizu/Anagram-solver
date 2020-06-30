@@ -2,7 +2,7 @@
 # ----------------------------------------------------------------------------
 CMakeLists.txt.user
 #Below is original
-
+.idea
 *~
 *.autosave
 *.a

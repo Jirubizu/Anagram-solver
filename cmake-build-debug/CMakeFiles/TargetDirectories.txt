@@ -1,3 +1,0 @@
-C:/Users/David/Documents/GitProjects/Anagram-solver/cmake-build-debug/CMakeFiles/Anagram-Solver.dir
-C:/Users/David/Documents/GitProjects/Anagram-solver/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/David/Documents/GitProjects/Anagram-solver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
